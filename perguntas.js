@@ -4,13 +4,13 @@ criaCartao(
 'O JavaScript é uma linguagem de programação?'
 )
 
-criarCartão(
+criaCartão(
     'Geografia',
     'Qual a capital da França?',
     'A capital da França é Paris'
 )
 
-cirarcartao(
+criacartao(
     'Programação',
     'O que é uma função?',
     'Uma função é um bloco de códigos que executa uma  funçã'
